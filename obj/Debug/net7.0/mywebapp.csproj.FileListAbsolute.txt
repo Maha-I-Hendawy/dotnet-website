@@ -28,3 +28,4 @@
 /home/maha/Desktop/mywebapp/obj/Debug/net7.0/mywebapp.pdb
 /home/maha/Desktop/mywebapp/obj/Debug/net7.0/mywebapp.genruntimeconfig.cache
 /home/maha/Desktop/mywebapp/obj/Debug/net7.0/ref/mywebapp.dll
+/home/maha/Desktop/mywebapp/obj/Debug/net7.0/mywebapp.sourcelink.json

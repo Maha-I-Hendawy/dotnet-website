@@ -1,0 +1,29 @@
+﻿@page
+@model mywebapp.Pages.SignupModel
+@{
+  ViewData["Title"] = "Sign Up Page";
+}
+
+<div class="jumbotron text-center">
+    <h1>Sign Up Page</h1>
+    <p>This is the Sign Up Page</p>
+</div>
+ <form action="" method="post">
+  	<label>Username:</label>
+  	<input type="text" name="username">
+  	<br>
+  	<label>Email:</label>
+  	<input type="email" name="email">
+  	<br>
+  	<label>Password:</label>
+  	<input type="password" name="password">
+  	<br>
+  	<label>Confirm Password:</label>
+  	<input type="password" name="confirm_password">
+  	<br>
+  	<input type="submit" value="Sign Up">
+  	
+
+  </form>
+  <p>Already have an account? <a asp-area="" asp-page="/Login">Login</a></p>
+
